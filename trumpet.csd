@@ -32,7 +32,7 @@ asig	oscili	aenv,ifreq,iwave			; signal
 <CsScore>
 
 f2 0 16385 10 1	0.395366418 	1.250289043 	1.012762362	1.31238883	1.280705265	 0.359013696	0.519743863 	0.437855745 	0.349942191	 ;trumpet
-
+t 0 200
 ; trumpet
 ;	start	dur		amp		pitch	attck	decay 	
 	
